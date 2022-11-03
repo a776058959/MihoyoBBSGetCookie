@@ -4,8 +4,10 @@ user.mihoyo.com获取cookie以作他用
 
 使用方式  
 -1.安装脚本管理器  
-        &ensp;1-使用浏览器扩展商店搜索Tampermonkey、Violentmonkey等  
-        &ensp;2-前往脚本管理器官方网站根据浏览器类型安装  
+
+        1-使用浏览器扩展商店搜索Tampermonkey、Violentmonkey等  
+
+2-前往脚本管理器官方网站根据浏览器类型安装  
             &ensp;[Violentmonkey](https://violentmonkey.github.io/get-it/)  
             &ensp;[Tampermonkey](https://www.tampermonkey.net/)  
 
