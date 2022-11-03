@@ -6,7 +6,7 @@
 // @author      EA乖离
 // @description 米游社获取cookie
 // @grant       GM_registerMenuCommand
-// @updateurl   https://jsd.cdn.zzko.cn/gh/a776058959/MihoyoBBSGetCookie@main/mihoyo.com%E8%8E%B7%E5%8F%96cookie.user.js
+// @updateurl   https://raw.iqiq.io/a776058959/MihoyoBBSGetCookie/main/mihoyo.com%E8%8E%B7%E5%8F%96cookie.user.js
 // ==/UserScript==
 (function() {
   'use strict';
