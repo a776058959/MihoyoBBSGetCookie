@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        mihoyo.com获取cookie
-// @namespace   none
+// @namespace   https://github.com/a776058959/MihoyoBBSGetCookie
 // @match       https://user.mihoyo.com/
-// @version     0.1
+// @version     0.2
 // @author      EA乖离
 // @description 米游社获取cookie
 // @grant       GM_registerMenuCommand
