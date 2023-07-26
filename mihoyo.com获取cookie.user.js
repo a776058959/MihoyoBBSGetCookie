@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name        米游社/B站/任意网站获取cookie
 // @namespace   https://github.com/a776058959/MihoyoBBSGetCookie
+// @homepageURL https://github.com/a776058959/MihoyoBBSGetCookie
 // @supportURL  https://github.com/a776058959/MihoyoBBSGetCookie/issues
 // @updateURL   https://hub.fgit.gq/a776058959/MihoyoBBSGetCookie/raw/main/mihoyo.com%E8%8E%B7%E5%8F%96cookie.user.js
 // @downloadURL https://hub.fgit.gq/a776058959/MihoyoBBSGetCookie/raw/main/mihoyo.com%E8%8E%B7%E5%8F%96cookie.user.js
 // @match       https://user.mihoyo.com/
 // @match       https://www.bilibili.com/
 // @match       *://*/*
-// @version     0.4
+// @version     0.5
 // @author      EA乖离
 // @description 米游社、B站等任意网站获取cookie，只需点击菜单中的获取。(某些网站或未登录网站可能会获取失败。)
 // @grant       GM_registerMenuCommand
