@@ -1,6 +1,9 @@
 // ==UserScript==
 // @name        米游社/B站/任意网站获取cookie
 // @namespace   https://github.com/a776058959/MihoyoBBSGetCookie
+// @supportURL  https://github.com/a776058959/MihoyoBBSGetCookie/issues
+// @updateURL   https://hub.fgit.gq/a776058959/MihoyoBBSGetCookie/raw/main/mihoyo.com%E8%8E%B7%E5%8F%96cookie.user.js
+// @downloadURL https://hub.fgit.gq/a776058959/MihoyoBBSGetCookie/raw/main/mihoyo.com%E8%8E%B7%E5%8F%96cookie.user.js
 // @match       https://user.mihoyo.com/
 // @match       https://www.bilibili.com/
 // @match       *://*/*
