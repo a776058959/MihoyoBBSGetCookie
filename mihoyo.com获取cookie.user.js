@@ -4,7 +4,7 @@
 // @match       https://user.mihoyo.com/
 // @match       https://www.bilibili.com/
 // @match       *://*/*
-// @version     0.5
+// @version     0.4
 // @author      EA乖离
 // @description 米游社、B站等任意网站获取cookie，只需点击菜单中的获取。(某些网站或未登录网站可能会获取失败。)
 // @grant       GM_registerMenuCommand
