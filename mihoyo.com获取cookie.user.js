@@ -4,12 +4,10 @@
 // @match       https://user.mihoyo.com/
 // @match       https://www.bilibili.com/
 // @match       *://*/*
-// @version     0.6
+// @version     0.5
 // @author      EA乖离
 // @description 米游社、B站等任意网站获取cookie，只需点击菜单中的获取。(某些网站或未登录网站可能会获取失败。)
 // @grant       GM_registerMenuCommand
-// @updateurl   https://raw.iqiq.io/a776058959/MihoyoBBSGetCookie/main/mihoyo.com%E8%8E%B7%E5%8F%96cookie.user.js
-// @downloadURL https://raw.iqiq.io/a776058959/MihoyoBBSGetCookie/main/mihoyo.com%E8%8E%B7%E5%8F%96cookie.user.js
 // ==/UserScript==
 (function() {
   'use strict';
