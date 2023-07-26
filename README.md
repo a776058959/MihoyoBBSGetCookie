@@ -21,10 +21,10 @@ user.mihoyo.com获取cookie以作他用
 
 
 
--2.点击 [这里](https://jsd.cdn.zzko.cn/gh/a776058959/MihoyoBBSGetCookie@main/mihoyo.com%E8%8E%B7%E5%8F%96cookie.user.js)，添加脚本  
+-2.点击 [这里](https://hub.fgit.gq/a776058959/MihoyoBBSGetCookie/raw/main/mihoyo.com%E8%8E%B7%E5%8F%96cookie.user.js)，添加脚本  
 
 
--3.点击打开 [打开user.mihoyo.com](https://user.mihoyo.com/)，并登陆账号。  
+-3.点击打开 [米哈游通行证](https://user.mihoyo.com/)或[BiliBili](https://www.bilibili.com/)，并登陆账号。或者打开任意网站  
 
 
 -4.点击脚本菜单里的获取，弹出窗口后点击确认。这样cookie就到剪切板里了。  
